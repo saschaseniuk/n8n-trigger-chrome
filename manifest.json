@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "n8n Workflow Trigger",
     "version": "1.0",
-    "description": "Trigger n8n workflows from the current page using runtime host permissions.",
+    "description": "Trigger n8n workflows from any web page with a simple right-click. Automate faster, smarter.",
     "author": "Sascha Seniuk",
     "homepage_url": "https://aiscream.de",
     "permissions": [
